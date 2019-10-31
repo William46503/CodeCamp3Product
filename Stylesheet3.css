@@ -1,0 +1,19 @@
+body {
+}
+
+#nav-bar {
+  height: 80px;
+  background-color: #444;
+}
+
+#nav-bar ul {
+  float: right;
+}
+
+#nav-bar li {
+  float: left;
+}
+
+#header-img {
+  height: 60px;
+}
