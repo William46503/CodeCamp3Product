@@ -54,8 +54,17 @@ body {
   display: inline-block;
 }
 
-#features ul {
-  list-style: none;
+.feature {
+  display: inline-flex;
+  margin-left: 15vw;
+}
+.desc {
+}
+
+.desc p {
+}
+
+.featureicon {
 }
 
 #video {
